@@ -1,0 +1,35 @@
+:root {
+  --primary-color: #fff;
+}
+body {
+  background-color: var(--primary-color);
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+a {
+  font-weight: bold;
+  color: inherit;
+}
+a:hover {
+  color: inherit;
+}
+.my-content {
+  margin: 3em auto;
+}
+.justify {
+  text-align: justify;
+}
+name {
+  font-size: 1.5em;
+  border-bottom: solid 0.75em #333;
+}
+project:last-child p {
+  border-right: solid 1em #333;
+  padding-right: 1em;
+}
+
+.thicker {
+  font-weight: 500;
+}
