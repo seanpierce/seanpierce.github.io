@@ -29,7 +29,15 @@ project:last-child p {
   border-right: solid 1em #333;
   padding-right: 1em;
 }
-
 .thicker {
   font-weight: 500;
+}
+inspiration p {
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 200px;
+}
+inspiration p a {
+  font-weight: lighter;
+  font-style: italic;
 }
