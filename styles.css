@@ -34,8 +34,7 @@ project:last-child p {
 }
 inspiration p {
   font-weight: lighter;
-  text-align: center;
-  margin-top: 200px;
+  text-align: right;
 }
 inspiration p a {
   font-weight: lighter;
