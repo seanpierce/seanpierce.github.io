@@ -25,12 +25,19 @@ name {
   font-size: 1.5em;
   border-bottom: solid 0.75em #333;
 }
-project:last-child p {
+.blocker {
   border-right: solid 1em #333;
   padding-right: 1em;
 }
 .thicker {
   font-weight: 500;
+}
+.sub {
+  font-style: italic;
+}
+project {
+  display: block;
+  margin-bottom: 1em;
 }
 inspiration p {
   font-weight: lighter;
