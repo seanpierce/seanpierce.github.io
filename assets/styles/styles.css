@@ -35,6 +35,9 @@ name {
 .sub {
   font-style: italic;
 }
+.icon img {
+	height: 1em;
+}
 project {
   display: block;
   margin-bottom: 1em;
