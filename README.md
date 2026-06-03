@@ -1,5 +1,5 @@
 # seanpierce.github.io
-Portfolio site for Sean Pierce Sumler (me), a full-stack developer and software engineer in Phoenix, Arizona. The site's design is inspired by [Jan Tschichold's *Die Neue Typographie*](http://www.designhistory.org/Avant_Garde_pages/DieNeueType.html).
 
+This project is deprecated, but exists because it's still listed on old resumes and legacy pages.
 
-[View the site here](https://seanpierce.github.io)
+The home page issues a redirect to portfolio.seanpierce.net, which is my new portfolio site.
